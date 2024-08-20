@@ -1,0 +1,52 @@
+body {
+   width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.name{
+    font-size: 25px;
+    margin-top: -0.1%;
+    margin-left: 35%;
+    width: 100%;
+}
+.lt , .rt{
+    margin-left: 15%;
+    margin-top: 15%;
+    margin-top: 8%;
+    width: 100%;
+    
+}
+input[type="text"] ,input[type="email"]{
+    width: 100%;
+    height: 35px;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: rgba(255, 222, 173, 0);
+}
+::placeholder{
+    color: rgb(219, 219, 219);
+    font-size: 19px;
+}
+.img-radius{
+    margin-left: 56%;
+    margin-top: 55%;
+}
+.u-btn{
+    height: 35px;
+    font-size: 20px;
+    background-color: rgb(9, 33, 49);
+    outline: none;
+    width: 40%;
+    margin-left: 60%;
+    margin-top: 8%;
+ color: white;
+}
+.u-btn:hover{
+    height: 36px;
+    width: 42%;
+    margin-left: 58%;
+}
